@@ -1,0 +1,19 @@
+.container {
+  background: linear-gradient(145deg, #c4c4c2, #626c6e);
+}
+
+.card-name {
+  background: #c4c4c2;
+  border: #c4c4c2;
+}
+
+.bg-card-description {
+  background: #8E574D;
+}
+.bg-card-description .card-description {
+  background-color: #c4c4c2;
+}
+
+.card-footer p {
+  font-size: 0.56rem;
+}/*# sourceMappingURL=baronne.css.map */
